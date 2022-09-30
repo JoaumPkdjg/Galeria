@@ -43,4 +43,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void dispatchTakePictureIntent() {
     }
+
+    public void startPhotoActivity(String s) {
+    }
 }
