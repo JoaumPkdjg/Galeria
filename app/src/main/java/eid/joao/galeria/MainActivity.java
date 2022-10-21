@@ -134,4 +134,7 @@ public class MainActivity extends AppCompatActivity {
         i.putExtra("photo_path", photoPath);
         startActivity(i);
     }
+
+    public void startPhotoActivity(String s) {
+    }
 }
